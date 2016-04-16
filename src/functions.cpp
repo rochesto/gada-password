@@ -41,6 +41,8 @@ namespace func{
                 f << "# SIZE WORD" << endl << endl;
                 f << "min = 3" << endl;
                 f << "max = 20" << endl << endl;
+                f << "# BRUTE FORCE" << endl << endl;
+                f << "brute = abcdefghijklmnopqrstuvwxyz" << endl << endl;
                 f << "# MODIFIERS" << endl;
                 f << "mod1 = (" << endl;
                 f << "   name = 'date'" << endl;
